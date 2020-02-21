@@ -1,0 +1,3 @@
+>> Inline << só serve para um texto em especifico
+>> Internal << 
+>> External <<
